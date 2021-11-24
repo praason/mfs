@@ -1,4 +1,4 @@
-## module federation plugin demo
+## module federation sample demo
 
 it's a demo using module federation plugin from webpack5 with vue2 & vue-router
 
